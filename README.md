@@ -55,3 +55,4 @@ OpenCV
 NumPy
 
 MediaPipe
+LinkedIn account follow me www.linkedin.com/in/zain-ul-abideen-7b9875283
